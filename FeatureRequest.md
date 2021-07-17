@@ -11,6 +11,13 @@
 
 ____
 
+#### #9 Factory Reset
+
+A button to restore default configuration and restart configuration guide.
+
+* Add the option in Configuration
+* Write the script to delete all custom files and restore default configuration (except wlan.ini)
+
 #### #8 MQTT configurable readout intervall
 
 Make the readout intervall configurable via MQTT.
